@@ -2,7 +2,7 @@
 summary: 'Create an animated introduction banner about ice cream.'
 time: '2 hours'
 deliverables: '1 HTML file, 4 CSS files, images'
-download: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/frozen-not-in-time-download.zip"
+download: "https://assets.learntheweb.courses/web-dev-3/frozen-not-in-time-download.zip"
 ---
 
 # Frozen—not in time
